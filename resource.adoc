@@ -1,3 +1,5 @@
-[有哪些比较好的中文分词方案？-知乎] https://www.zhihu.com/question/19578687
+[有哪些比较好的中文分词方案？-知乎]https://www.zhihu.com/question/19578687
 
-[System of NLPIR 中科院计算所] https://github.com/NLPIR-team/NLPIR
+[System of NLPIR 中科院计算所]https://github.com/NLPIR-team/NLPIR
+
+[中文搜索引擎技术揭密：中文分词]http://stlchina.huhoo.net/twiki/bin/view.pl/Main/SESegment
