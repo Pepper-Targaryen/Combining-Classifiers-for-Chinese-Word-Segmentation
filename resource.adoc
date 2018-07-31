@@ -1,0 +1,2 @@
+[有哪些比较好的中文分词方案？-知乎] https://www.zhihu.com/question/19578687
+[System of NLPIR 中科院计算所] https://github.com/NLPIR-team/NLPIR
